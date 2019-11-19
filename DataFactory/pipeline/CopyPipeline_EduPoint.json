@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Copy_d8t",
+				"name": "Copy_data",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
